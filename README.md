@@ -26,4 +26,4 @@ The EEG data are stored in Matlab’s .mat-file format, one file per subject. Ea
     - DataEEG.s: sampling frequency [125].
     - DataEEG.c: channel names description (1 × number of channels)
 
-For a detailed description: [here](https://github.com/MI-DataBase/MI-OpenBCI/blob/main/MI_Open_BCI_Dataset_Description.pdf)
+For a detailed description: [here](https://github.com/ProMABLab/MI-OpenBCI/blob/main/MI_Open_BCI_Dataset_Description.pdf)

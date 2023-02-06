@@ -1,6 +1,6 @@
 # MI-OpenBCI
 
-Now ProMAB is NiCALab (Applied computational neuroengineering Lab).
+Now ProMAB is NiCALab: Applied computational neuroengineering Lab.
 
 This repository has been moved [here] (https://github.com/NiCALab-IMAL/Database-MIOpenBCI)
 
